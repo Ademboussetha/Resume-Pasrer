@@ -70,4 +70,4 @@ The code will return a json file : data.json and it looks like this :
 } ```
 
 # References 
-[link](https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48)
+[link] https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48
