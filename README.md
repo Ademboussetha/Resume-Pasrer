@@ -5,7 +5,7 @@ Resumer parser that helps you to get data from CV/resume
 
 ## Installation
 
-``` pip install spacy ```
+``` pip install requirements.txt ```
 
 also you need nltk for  NLP (Natural Language Processing) 
 ``` #spacy english
@@ -19,3 +19,8 @@ python -m nltk.downloader stopwords
 * .pdf Files 
 * .doc Files
 
+# Structure 
+You need to place your CV/Resume file in /resumes directory then all you have to do is : 
+``` python resume.py ``` 
+
+** P.S : just one resume **
