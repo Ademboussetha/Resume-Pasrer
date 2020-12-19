@@ -22,6 +22,7 @@ python -m nltk.downloader stopwords
 * .doc Files
 
 # Structure 
+**THE RESUME SHOULD BE IN ENGLISH**  
 You need to place your CV/Resume file in /resumes directory (**just one file**) then all you have to do is :  
 ``` python resume.py ``` 
 
