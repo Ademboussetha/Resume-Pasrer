@@ -9,7 +9,8 @@ But i will work on it with time :D
 ``` pip install requirements.txt ```
 
 also you need nltk for  NLP (Natural Language Processing) 
-``` #spacy english
+``` 
+#spacy english
 python -m spacy download en_core_web_sm
 
 #nltk
