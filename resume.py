@@ -70,11 +70,8 @@ if __name__ == '__main__':
 
     results = [p.get() for p in results]
 
-    # pprint.pprint(results[0])
-    data = {
-        'name': results[0]['name'],
-        'competencies':results[0]['competencies']
-    }
+    pprint.pprint(results[0])
+  
     pprint.pprint(json.dumps(data))
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+        json.dump(results[0], f, ensure_ascii=False, indent=4)
