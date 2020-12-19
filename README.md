@@ -22,10 +22,10 @@ python -m nltk.downloader stopwords
 * .doc Files
 
 # Structure 
-You need to place your CV/Resume file in /resumes directory then all you have to do is :  
+You need to place your CV/Resume file in /resumes directory **\*** P.S : just one resume file **\*** then all you have to do is :  
 ``` python resume.py ``` 
 
-**\*** P.S : just one resume file **\***
+
 # Output 
 The code will return a json file : data.json and it looks like this :  
 ``` {
