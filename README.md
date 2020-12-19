@@ -1,7 +1,8 @@
 # Resume-Pasrer
 
 Resumer parser that helps you to get data from CV/resume  
-
+This is the first version so it has some errors (for exemple sometimes it doesnt't get all the informations from the resume).  
+But i will work on it with time :D 
 
 ## Installation
 
@@ -71,4 +72,5 @@ The code will return a json file : data.json and it looks like this :
 ```
 
 # References 
-[link] (https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48)
+This article helped me for NLP : https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48
+also this one : https://www.kaggle.com/nirant/hitchhiker-s-guide-to-nlp-in-spacy
