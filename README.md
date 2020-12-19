@@ -72,5 +72,5 @@ The code will return a json file : data.json and it looks like this :
 ```
 
 # References 
-This article helped me for NLP : https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48
+This article helped me for NLP : https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48  
 also this one : https://www.kaggle.com/nirant/hitchhiker-s-guide-to-nlp-in-spacy
